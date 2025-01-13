@@ -1,0 +1,21 @@
+
+
+
+Explain why a number data type added to a string data type returns a string.
+	Once the variable is established as a string in the 'let' or 'const' assignments, all future assignments
+	will be converted into string.
+
+Name a scenario where using the == operator could cause a bug.
+	mixing object and primitive operands
+	comparing operands of unequal data types
+
+Name the operator(s) that you find confusing and explain why.
+	&& doesn't return a boolean result, it only returns the value of the last true operand
+	= assignment, == comparison === strict comparison
+
+Explain a situation where you would use the Modulus operator and why.
+	If I wanted to assign the result to a seperate variable
+	If I wanted to check if the variable would remain an integer  (if result = 0)
+	If I wanted to demonstrate long division
+	If I wanted to control rounding an integer up or down by establishing a threshhold to the remainder
+	If I wanted to check a numerical value before deciding to reassign the contents of an integer value to floating point
