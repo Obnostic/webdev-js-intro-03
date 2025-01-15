@@ -3,9 +3,8 @@
 "use strict"
 
 //console.log(1 + 1);         // Output: 2
-//console.log(1 - 1);          // Output: 0
-//console.log(1 + "1");        // Output: 11
-                             // What? Why? Search for the answer
+//console.log(1 - 1);         // Output: 0
+//                           // What? Why? Search for the answer
 
 //console.log(3 - 4 * 5)       // Output: -17
 //console.log((3 - 4) * 5);    // Output: -5
@@ -19,8 +18,8 @@
 //console.log(1 == "1");       // Output: true
 //console.log(1 === "1");      // Output: false
 
-////console.log(1 || 2);         // Output: 1
+//console.log(1 || 2);         // Output: 1
 //console.log(2 || 1);         // Output: 2
 //console.log(1 && 2);         // Output: false  (?? True--it's 2 - both values are truthy)
 //console.log(1 && 1);         // Output: true    (it's 1)
-//
+
